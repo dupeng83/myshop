@@ -24,4 +24,4 @@
 
 `python manage.py runserver`
 
-可以在后台添加商品，在前台购买，在后台还可以查看订单
+需要用`python manage.py createsuperuser`创建管理员，之后就可以在后台添加商品，在前台购买，在后台还可以查看订单
