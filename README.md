@@ -18,6 +18,8 @@
 
 `pip install flower`
 
+`pip install dj_static`
+
 `python manage.py migrate`
 
 `python manage.py runserver`
